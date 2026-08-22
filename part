@@ -1,0 +1,59 @@
+expenseStatus options
+    draft
+    submitted
+    approved
+    rejected
+    paid
+    reimbursed
+    cancelled
+expensePaymentMethod options
+    cash
+    card
+    bankTransfer
+    wallet
+    other
+expenseCategory
+    title
+    code
+    description optional
+    unique code
+spendingPolicy
+    title
+    expenseCategory optional
+    limit realNumber optional
+    period optional
+    approvalRequired yesNo optional
+    receiptRequired yesNo optional
+expense
+    title
+    number
+    expenseCategory
+    expenseDate
+    amount realNumber
+    currency
+    expensePaymentMethod
+    expenseStatus
+    supplier optional
+    receipt optional
+    description optional
+    unique number
+expenseClaim
+    number
+    claimant
+    submittedDate
+    expenseStatus
+    total realNumber
+    currency
+    description optional
+    unique number
+expenseClaimItem
+    expenseClaim
+    expense
+    claimedAmount realNumber
+    approvedAmount realNumber optional
+reimbursement
+    expenseClaim
+    payment
+    reimbursementDate
+    amount realNumber
+    currency

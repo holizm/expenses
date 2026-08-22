@@ -1,0 +1,19 @@
+{
+    "expensesAmount": "Amount",
+    "expensesClaimant": "Claimant",
+    "expensesCode": "Code",
+    "expensesCurrency": "Currency",
+    "expensesDescription": "Description",
+    "expensesExpense": "Expense",
+    "expensesExpenseCategories": "Expense categories",
+    "expensesExpenseCategory": "Expense category",
+    "expensesExpenseClaims": "Expense claims",
+    "expensesExpenseDate": "Expense date",
+    "expensesExpenses": "Expenses",
+    "expensesNumber": "Number",
+    "expensesPaymentMethod": "Payment method",
+    "expensesSpending": "Spending",
+    "expensesStatus": "Status",
+    "expensesSubmittedDate": "Submitted date",
+    "expensesTotal": "Total"
+}

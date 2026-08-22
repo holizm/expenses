@@ -1,0 +1,19 @@
+{
+    "expensesAmount": "مبلغ",
+    "expensesClaimant": "درخواست‌کننده",
+    "expensesCode": "کد",
+    "expensesCurrency": "ارز",
+    "expensesDescription": "توضیحات",
+    "expensesExpense": "هزینه",
+    "expensesExpenseCategories": "دسته‌های هزینه",
+    "expensesExpenseCategory": "دسته هزینه",
+    "expensesExpenseClaims": "درخواست‌های هزینه",
+    "expensesExpenseDate": "تاریخ هزینه",
+    "expensesExpenses": "هزینه‌ها",
+    "expensesNumber": "شماره",
+    "expensesPaymentMethod": "روش پرداخت",
+    "expensesSpending": "مدیریت هزینه‌ها",
+    "expensesStatus": "وضعیت",
+    "expensesSubmittedDate": "تاریخ ثبت",
+    "expensesTotal": "مجموع"
+}
