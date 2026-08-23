@@ -1,3 +1,3 @@
-export default ({ expenseClaim }) => <span class='expenseClaimStatus'>
+export default ({ expenseClaim }) => <span class='status'>
     {expenseClaim.expenseStatus}
 </span>
