@@ -15,6 +15,7 @@ export default [
             },
         ],
         icon: 'payments',
+        path: '/expenses',
         title: 'expensesSpending',
     },
 ]
