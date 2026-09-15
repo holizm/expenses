@@ -1,0 +1,27 @@
+{
+    "common": {},
+    "api": {},
+    "panel": {
+        "amount": "مبلغ",
+        "claimant": "درخواست‌کننده",
+        "code": "کد",
+        "currency": "ارز",
+        "description": "توضیحات",
+        "expense": "هزینه",
+        "expenseCategories": "دسته‌های هزینه",
+        "expenseCategory": "دسته هزینه",
+        "expenseClaims": "درخواست‌های هزینه",
+        "expenseDate": "تاریخ هزینه",
+        "expenses": "هزینه‌ها",
+        "number": "شماره",
+        "paymentMethod": "روش پرداخت",
+        "spending": "مدیریت هزینه‌ها",
+        "status": "وضعیت",
+        "submittedDate": "تاریخ ثبت",
+        "total": "مجموع"
+    },
+    "site": {
+        "claim": "درخواست هزینه",
+        "status": "وضعیت هزینه"
+    }
+}
