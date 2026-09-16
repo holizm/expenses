@@ -1,7 +1,5 @@
 {
-    "common": {},
-    "api": {},
-    "panel": {
+    "common": {
         "amount": "Amount",
         "claimant": "Claimant",
         "code": "Code",
@@ -16,12 +14,9 @@
         "number": "Number",
         "paymentMethod": "Payment method",
         "spending": "Spending",
-        "status": "Status",
+        "status": "Expense status",
         "submittedDate": "Submitted date",
-        "total": "Total"
-    },
-    "site": {
-        "claim": "Expense claim",
-        "status": "Expense status"
+        "total": "Total",
+        "claim": "Expense claim"
     }
 }

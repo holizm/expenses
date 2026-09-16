@@ -1,7 +1,5 @@
 {
-    "common": {},
-    "api": {},
-    "panel": {
+    "common": {
         "amount": "مبلغ",
         "claimant": "درخواست‌کننده",
         "code": "کد",
@@ -16,12 +14,9 @@
         "number": "شماره",
         "paymentMethod": "روش پرداخت",
         "spending": "مدیریت هزینه‌ها",
-        "status": "وضعیت",
+        "status": "وضعیت هزینه",
         "submittedDate": "تاریخ ثبت",
-        "total": "مجموع"
-    },
-    "site": {
-        "claim": "درخواست هزینه",
-        "status": "وضعیت هزینه"
+        "total": "مجموع",
+        "claim": "درخواست هزینه"
     }
 }
