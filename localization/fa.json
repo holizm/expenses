@@ -1,17 +1,12 @@
 {
     "common": {
-        "amount": "مبلغ",
         "claimant": "درخواست‌کننده",
-        "code": "کد",
-        "currency": "ارز",
-        "description": "توضیحات",
         "expense": "هزینه",
         "expenseCategories": "دسته‌های هزینه",
         "expenseCategory": "دسته هزینه",
         "expenseClaims": "درخواست‌های هزینه",
         "expenseDate": "تاریخ هزینه",
         "expenses": "هزینه‌ها",
-        "number": "شماره",
         "paymentMethod": "روش پرداخت",
         "spending": "مدیریت هزینه‌ها",
         "status": "وضعیت هزینه",

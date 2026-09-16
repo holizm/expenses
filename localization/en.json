@@ -1,17 +1,12 @@
 {
     "common": {
-        "amount": "Amount",
         "claimant": "Claimant",
-        "code": "Code",
-        "currency": "Currency",
-        "description": "Description",
         "expense": "Expense",
         "expenseCategories": "Expense categories",
         "expenseCategory": "Expense category",
         "expenseClaims": "Expense claims",
         "expenseDate": "Expense date",
         "expenses": "Expenses",
-        "number": "Number",
         "paymentMethod": "Payment method",
         "spending": "Spending",
         "status": "Expense status",
