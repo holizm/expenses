@@ -32,7 +32,7 @@ const inputs = <>
             'reimbursed',
             'cancelled',
         ]}
-        placeholder='expensesStatus'
+        placeholder='stateMachinesState'
         property='expenseStatus'
         required
     />
