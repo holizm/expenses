@@ -1,0 +1,15 @@
+{
+    "common": {
+        "claimant": "Sökande",
+        "expense": "Utgift",
+        "expenseCategories": "Utgiftskategorier",
+        "expenseCategory": "Utgiftskategori",
+        "expenseClaims": "Utläggsanspråk",
+        "expenseDate": "Utgiftsdatum",
+        "expenses": "Utgifter",
+        "paymentMethod": "Betalningsmetod",
+        "spending": "Utgifter",
+        "submittedDate": "Inlämningsdatum",
+        "total": "Totalt"
+    }
+}

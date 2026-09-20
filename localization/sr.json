@@ -1,0 +1,15 @@
+{
+    "common": {
+        "claimant": "Подносилац захтева",
+        "expense": "Трошак",
+        "expenseCategories": "Категорије трошкова",
+        "expenseCategory": "Категорија трошка",
+        "expenseClaims": "Захтеви за накнаду трошкова",
+        "expenseDate": "Датум трошка",
+        "expenses": "Трошкови",
+        "paymentMethod": "Начин плаћања",
+        "spending": "Потрошња",
+        "submittedDate": "Датум подношења",
+        "total": "Укупно"
+    }
+}

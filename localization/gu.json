@@ -1,0 +1,15 @@
+{
+    "common": {
+        "claimant": "દાવેદાર",
+        "expense": "ખર્ચ",
+        "expenseCategories": "ખર્ચની શ્રેણીઓ",
+        "expenseCategory": "ખર્ચની શ્રેણી",
+        "expenseClaims": "ખર્ચ વળતરના દાવા",
+        "expenseDate": "ખર્ચની તારીખ",
+        "expenses": "ખર્ચાઓ",
+        "paymentMethod": "ચુકવણી પદ્ધતિ",
+        "spending": "ખર્ચ",
+        "submittedDate": "રજૂ કર્યાની તારીખ",
+        "total": "કુલ"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "common": {
+        "claimant": "報銷申請人",
+        "expense": "費用",
+        "expenseCategories": "費用類別",
+        "expenseCategory": "費用類別",
+        "expenseClaims": "費用報銷申請",
+        "expenseDate": "費用日期",
+        "expenses": "費用",
+        "paymentMethod": "付款方式",
+        "spending": "支出",
+        "submittedDate": "提交日期",
+        "total": "總計"
+    }
+}

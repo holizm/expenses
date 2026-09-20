@@ -1,0 +1,15 @@
+{
+    "common": {
+        "claimant": "கோரிக்கையாளர்",
+        "expense": "செலவு",
+        "expenseCategories": "செலவு வகைகள்",
+        "expenseCategory": "செலவு வகை",
+        "expenseClaims": "செலவுத் திருப்பிச் செலுத்தல் கோரிக்கைகள்",
+        "expenseDate": "செலவுத் தேதி",
+        "expenses": "செலவுகள்",
+        "paymentMethod": "பணம் செலுத்தும் முறை",
+        "spending": "செலவினம்",
+        "submittedDate": "சமர்ப்பித்த தேதி",
+        "total": "மொத்தம்"
+    }
+}

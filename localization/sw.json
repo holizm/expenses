@@ -1,0 +1,15 @@
+{
+    "common": {
+        "claimant": "Mdai",
+        "expense": "Gharama",
+        "expenseCategories": "Aina za gharama",
+        "expenseCategory": "Aina ya gharama",
+        "expenseClaims": "Madai ya kurejeshewa gharama",
+        "expenseDate": "Tarehe ya gharama",
+        "expenses": "Gharama",
+        "paymentMethod": "Njia ya malipo",
+        "spending": "Matumizi",
+        "submittedDate": "Tarehe ya kuwasilisha",
+        "total": "Jumla"
+    }
+}

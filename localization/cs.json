@@ -1,0 +1,15 @@
+{
+    "common": {
+        "claimant": "Žadatel",
+        "expense": "Výdaj",
+        "expenseCategories": "Kategorie výdajů",
+        "expenseCategory": "Kategorie výdaje",
+        "expenseClaims": "Žádosti o proplacení výdajů",
+        "expenseDate": "Datum výdaje",
+        "expenses": "Výdaje",
+        "paymentMethod": "Způsob platby",
+        "spending": "Útrata",
+        "submittedDate": "Datum podání",
+        "total": "Celkem"
+    }
+}

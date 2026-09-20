@@ -1,0 +1,15 @@
+{
+    "common": {
+        "claimant": "申請者",
+        "expense": "経費",
+        "expenseCategories": "経費カテゴリ",
+        "expenseCategory": "経費カテゴリ",
+        "expenseClaims": "経費精算申請",
+        "expenseDate": "支出日",
+        "expenses": "経費",
+        "paymentMethod": "支払方法",
+        "spending": "支出額",
+        "submittedDate": "申請日",
+        "total": "合計"
+    }
+}

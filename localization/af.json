@@ -1,0 +1,15 @@
+{
+    "common": {
+        "claimant": "Eiser",
+        "expense": "Uitgawe",
+        "expenseCategories": "Uitgawekategorieë",
+        "expenseCategory": "Uitgawekategorie",
+        "expenseClaims": "Uitgawe-eise",
+        "expenseDate": "Uitgawedatum",
+        "expenses": "Uitgawes",
+        "paymentMethod": "Betaalmetode",
+        "spending": "Besteding",
+        "submittedDate": "Indieningsdatum",
+        "total": "Totaal"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "common": {
+        "claimant": "Naghahabol ng bayad",
+        "expense": "Gastos",
+        "expenseCategories": "Mga kategorya ng gastos",
+        "expenseCategory": "Kategorya ng gastos",
+        "expenseClaims": "Mga kahilingan sa reimbursement",
+        "expenseDate": "Petsa ng gastos",
+        "expenses": "Mga gastos",
+        "paymentMethod": "Paraan ng pagbabayad",
+        "spending": "Paggastos",
+        "submittedDate": "Petsa ng pagsusumite",
+        "total": "Kabuuan"
+    }
+}

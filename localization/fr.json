@@ -1,0 +1,15 @@
+{
+    "common": {
+        "claimant": "Demandeur",
+        "expense": "Dépense",
+        "expenseCategories": "Catégories de dépenses",
+        "expenseCategory": "Catégorie de dépense",
+        "expenseClaims": "Demandes de remboursement",
+        "expenseDate": "Date de la dépense",
+        "expenses": "Dépenses",
+        "paymentMethod": "Mode de paiement",
+        "spending": "Dépenses engagées",
+        "submittedDate": "Date de soumission",
+        "total": "Total"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "common": {
+        "claimant": "दावेदार",
+        "expense": "खर्च",
+        "expenseCategories": "खर्च श्रेणी",
+        "expenseCategory": "खर्च श्रेणी",
+        "expenseClaims": "खर्च परतफेड दावे",
+        "expenseDate": "खर्चाची तारीख",
+        "expenses": "खर्च",
+        "paymentMethod": "देयक पद्धत",
+        "spending": "खर्च रक्कम",
+        "submittedDate": "सादर करण्याची तारीख",
+        "total": "एकूण"
+    }
+}

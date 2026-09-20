@@ -1,0 +1,15 @@
+{
+    "common": {
+        "claimant": "Заявител",
+        "expense": "Разход",
+        "expenseCategories": "Категории разходи",
+        "expenseCategory": "Категория разход",
+        "expenseClaims": "Искания за възстановяване на разходи",
+        "expenseDate": "Дата на разхода",
+        "expenses": "Разходи",
+        "paymentMethod": "Начин на плащане",
+        "spending": "Разходване",
+        "submittedDate": "Дата на подаване",
+        "total": "Общо"
+    }
+}

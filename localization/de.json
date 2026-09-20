@@ -1,0 +1,15 @@
+{
+    "common": {
+        "claimant": "Antragsteller",
+        "expense": "Ausgabe",
+        "expenseCategories": "Ausgabenkategorien",
+        "expenseCategory": "Ausgabenkategorie",
+        "expenseClaims": "Spesenabrechnungen",
+        "expenseDate": "Ausgabedatum",
+        "expenses": "Ausgaben",
+        "paymentMethod": "Zahlungsart",
+        "spending": "Ausgaben",
+        "submittedDate": "Einreichungsdatum",
+        "total": "Gesamt"
+    }
+}

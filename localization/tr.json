@@ -1,0 +1,15 @@
+{
+    "common": {
+        "claimant": "Talep sahibi",
+        "expense": "Gider",
+        "expenseCategories": "Gider kategorileri",
+        "expenseCategory": "Gider kategorisi",
+        "expenseClaims": "Gider geri ödeme talepleri",
+        "expenseDate": "Gider tarihi",
+        "expenses": "Giderler",
+        "paymentMethod": "Ödeme yöntemi",
+        "spending": "Harcama",
+        "submittedDate": "Gönderim tarihi",
+        "total": "Toplam"
+    }
+}

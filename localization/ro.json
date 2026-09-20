@@ -1,0 +1,15 @@
+{
+    "common": {
+        "claimant": "Solicitant",
+        "expense": "Cheltuială",
+        "expenseCategories": "Categorii de cheltuieli",
+        "expenseCategory": "Categorie de cheltuială",
+        "expenseClaims": "Cereri de decontare",
+        "expenseDate": "Data cheltuielii",
+        "expenses": "Cheltuieli",
+        "paymentMethod": "Metodă de plată",
+        "spending": "Cheltuieli efectuate",
+        "submittedDate": "Data depunerii",
+        "total": "Total"
+    }
+}

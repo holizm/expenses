@@ -1,0 +1,15 @@
+{
+    "common": {
+        "claimant": "מגיש התביעה",
+        "expense": "הוצאה",
+        "expenseCategories": "קטגוריות הוצאות",
+        "expenseCategory": "קטגוריית הוצאה",
+        "expenseClaims": "תביעות החזר הוצאות",
+        "expenseDate": "תאריך ההוצאה",
+        "expenses": "הוצאות",
+        "paymentMethod": "אמצעי תשלום",
+        "spending": "הוצאה כספית",
+        "submittedDate": "תאריך הגשה",
+        "total": "סך הכול"
+    }
+}

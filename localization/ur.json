@@ -1,0 +1,15 @@
+{
+    "common": {
+        "claimant": "دعویٰ کنندہ",
+        "expense": "خرچ",
+        "expenseCategories": "اخراجات کے زمرے",
+        "expenseCategory": "خرچ کا زمرہ",
+        "expenseClaims": "اخراجات کی واپسی کے دعوے",
+        "expenseDate": "خرچ کی تاریخ",
+        "expenses": "اخراجات",
+        "paymentMethod": "ادائیگی کا طریقہ",
+        "spending": "صرف شدہ رقم",
+        "submittedDate": "جمع کرانے کی تاریخ",
+        "total": "کل"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "common": {
+        "claimant": "Kravstiller",
+        "expense": "Utgift",
+        "expenseCategories": "Utgiftskategorier",
+        "expenseCategory": "Utgiftskategori",
+        "expenseClaims": "Utgiftskrav",
+        "expenseDate": "Utgiftsdato",
+        "expenses": "Utgifter",
+        "paymentMethod": "Betalingsmåte",
+        "spending": "Forbruk",
+        "submittedDate": "Innsendingsdato",
+        "total": "Totalt"
+    }
+}

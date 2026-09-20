@@ -1,0 +1,15 @@
+{
+    "common": {
+        "claimant": "Declarant",
+        "expense": "Uitgave",
+        "expenseCategories": "Uitgavencategorieën",
+        "expenseCategory": "Uitgavencategorie",
+        "expenseClaims": "Onkostendeclaraties",
+        "expenseDate": "Uitgavedatum",
+        "expenses": "Uitgaven",
+        "paymentMethod": "Betaalmethode",
+        "spending": "Bestedingen",
+        "submittedDate": "Indieningsdatum",
+        "total": "Totaal"
+    }
+}

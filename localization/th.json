@@ -1,0 +1,15 @@
+{
+    "common": {
+        "claimant": "ผู้ยื่นคำขอ",
+        "expense": "ค่าใช้จ่าย",
+        "expenseCategories": "หมวดหมู่ค่าใช้จ่าย",
+        "expenseCategory": "หมวดหมู่ค่าใช้จ่าย",
+        "expenseClaims": "คำขอเบิกค่าใช้จ่าย",
+        "expenseDate": "วันที่เกิดค่าใช้จ่าย",
+        "expenses": "ค่าใช้จ่าย",
+        "paymentMethod": "วิธีการชำระเงิน",
+        "spending": "ยอดใช้จ่าย",
+        "submittedDate": "วันที่ยื่นคำขอ",
+        "total": "รวม"
+    }
+}

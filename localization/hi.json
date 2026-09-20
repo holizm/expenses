@@ -1,0 +1,15 @@
+{
+    "common": {
+        "claimant": "दावाकर्ता",
+        "expense": "व्यय",
+        "expenseCategories": "व्यय श्रेणियाँ",
+        "expenseCategory": "व्यय श्रेणी",
+        "expenseClaims": "व्यय प्रतिपूर्ति दावे",
+        "expenseDate": "व्यय तिथि",
+        "expenses": "व्यय",
+        "paymentMethod": "भुगतान विधि",
+        "spending": "खर्च",
+        "submittedDate": "जमा करने की तिथि",
+        "total": "कुल"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "common": {
+        "claimant": "അവകാശവാദി",
+        "expense": "ചെലവ്",
+        "expenseCategories": "ചെലവ് വിഭാഗങ്ങൾ",
+        "expenseCategory": "ചെലവ് വിഭാഗം",
+        "expenseClaims": "ചെലവ് തിരിച്ചടവ് അപേക്ഷകൾ",
+        "expenseDate": "ചെലവ് തീയതി",
+        "expenses": "ചെലവുകൾ",
+        "paymentMethod": "പണമടയ്ക്കൽ രീതി",
+        "spending": "ചെലവാക്കൽ",
+        "submittedDate": "സമർപ്പിച്ച തീയതി",
+        "total": "ആകെ"
+    }
+}

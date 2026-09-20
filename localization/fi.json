@@ -1,0 +1,15 @@
+{
+    "common": {
+        "claimant": "Hakija",
+        "expense": "Kulu",
+        "expenseCategories": "Kulukategoriat",
+        "expenseCategory": "Kulukategoria",
+        "expenseClaims": "Kuluhakemukset",
+        "expenseDate": "Kulun päivämäärä",
+        "expenses": "Kulut",
+        "paymentMethod": "Maksutapa",
+        "spending": "Kulutus",
+        "submittedDate": "Lähetyspäivä",
+        "total": "Yhteensä"
+    }
+}

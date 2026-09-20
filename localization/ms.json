@@ -1,0 +1,15 @@
+{
+    "common": {
+        "claimant": "Pemohon tuntutan",
+        "expense": "Perbelanjaan",
+        "expenseCategories": "Kategori perbelanjaan",
+        "expenseCategory": "Kategori perbelanjaan",
+        "expenseClaims": "Tuntutan bayaran balik perbelanjaan",
+        "expenseDate": "Tarikh perbelanjaan",
+        "expenses": "Perbelanjaan",
+        "paymentMethod": "Kaedah pembayaran",
+        "spending": "Perbelanjaan",
+        "submittedDate": "Tarikh dikemukakan",
+        "total": "Jumlah"
+    }
+}

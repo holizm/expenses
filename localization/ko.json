@@ -1,0 +1,15 @@
+{
+    "common": {
+        "claimant": "청구인",
+        "expense": "경비",
+        "expenseCategories": "경비 범주",
+        "expenseCategory": "경비 범주",
+        "expenseClaims": "경비 청구",
+        "expenseDate": "지출일",
+        "expenses": "경비",
+        "paymentMethod": "결제 방법",
+        "spending": "지출액",
+        "submittedDate": "제출일",
+        "total": "합계"
+    }
+}

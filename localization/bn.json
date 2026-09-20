@@ -1,0 +1,15 @@
+{
+    "common": {
+        "claimant": "দাবিদার",
+        "expense": "ব্যয়",
+        "expenseCategories": "ব্যয়ের বিভাগসমূহ",
+        "expenseCategory": "ব্যয়ের বিভাগ",
+        "expenseClaims": "ব্যয় ফেরতের দাবি",
+        "expenseDate": "ব্যয়ের তারিখ",
+        "expenses": "ব্যয়সমূহ",
+        "paymentMethod": "পরিশোধের পদ্ধতি",
+        "spending": "খরচ",
+        "submittedDate": "জমা দেওয়ার তারিখ",
+        "total": "মোট"
+    }
+}

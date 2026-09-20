@@ -1,0 +1,15 @@
+{
+    "common": {
+        "claimant": "Ansøger",
+        "expense": "Udgift",
+        "expenseCategories": "Udgiftskategorier",
+        "expenseCategory": "Udgiftskategori",
+        "expenseClaims": "Udlægsanmodninger",
+        "expenseDate": "Udgiftsdato",
+        "expenses": "Udgifter",
+        "paymentMethod": "Betalingsmetode",
+        "spending": "Forbrug",
+        "submittedDate": "Indsendelsesdato",
+        "total": "I alt"
+    }
+}

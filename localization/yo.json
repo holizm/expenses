@@ -1,0 +1,15 @@
+{
+    "common": {
+        "claimant": "Olùbéèrè ìsanpadà",
+        "expense": "Ìnáwó",
+        "expenseCategories": "Àwọn ẹ̀ka ìnáwó",
+        "expenseCategory": "Ẹ̀ka ìnáwó",
+        "expenseClaims": "Àwọn ìbéèrè ìsanpadà ìnáwó",
+        "expenseDate": "Ọjọ́ ìnáwó",
+        "expenses": "Àwọn ìnáwó",
+        "paymentMethod": "Ọ̀nà ìsanwó",
+        "spending": "Ìnáwó tí a ná",
+        "submittedDate": "Ọjọ́ tí a fi ránṣẹ́",
+        "total": "Àpapọ̀"
+    }
+}

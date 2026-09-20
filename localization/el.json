@@ -1,0 +1,15 @@
+{
+    "common": {
+        "claimant": "Αιτών",
+        "expense": "Δαπάνη",
+        "expenseCategories": "Κατηγορίες δαπανών",
+        "expenseCategory": "Κατηγορία δαπάνης",
+        "expenseClaims": "Αιτήματα εξόδων",
+        "expenseDate": "Ημερομηνία δαπάνης",
+        "expenses": "Δαπάνες",
+        "paymentMethod": "Τρόπος πληρωμής",
+        "spending": "Δαπάνες",
+        "submittedDate": "Ημερομηνία υποβολής",
+        "total": "Σύνολο"
+    }
+}

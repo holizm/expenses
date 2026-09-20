@@ -1,0 +1,15 @@
+{
+    "common": {
+        "claimant": "Заявник",
+        "expense": "Витрата",
+        "expenseCategories": "Категорії витрат",
+        "expenseCategory": "Категорія витрати",
+        "expenseClaims": "Заявки на відшкодування витрат",
+        "expenseDate": "Дата витрати",
+        "expenses": "Витрати",
+        "paymentMethod": "Спосіб оплати",
+        "spending": "Видатки",
+        "submittedDate": "Дата подання",
+        "total": "Усього"
+    }
+}

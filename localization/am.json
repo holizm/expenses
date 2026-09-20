@@ -1,0 +1,15 @@
+{
+    "common": {
+        "claimant": "ጠያቂ",
+        "expense": "ወጪ",
+        "expenseCategories": "የወጪ ምድቦች",
+        "expenseCategory": "የወጪ ምድብ",
+        "expenseClaims": "የወጪ ጥያቄዎች",
+        "expenseDate": "የወጪ ቀን",
+        "expenses": "ወጪዎች",
+        "paymentMethod": "የክፍያ ዘዴ",
+        "spending": "ወጪ ማውጣት",
+        "submittedDate": "የቀረበበት ቀን",
+        "total": "ጠቅላላ"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "common": {
+        "claimant": "Richiedente",
+        "expense": "Spesa",
+        "expenseCategories": "Categorie di spesa",
+        "expenseCategory": "Categoria di spesa",
+        "expenseClaims": "Richieste di rimborso spese",
+        "expenseDate": "Data della spesa",
+        "expenses": "Spese",
+        "paymentMethod": "Metodo di pagamento",
+        "spending": "Importo speso",
+        "submittedDate": "Data di invio",
+        "total": "Totale"
+    }
+}

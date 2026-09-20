@@ -1,0 +1,15 @@
+{
+    "common": {
+        "claimant": "Igénylő",
+        "expense": "Kiadás",
+        "expenseCategories": "Kiadási kategóriák",
+        "expenseCategory": "Kiadási kategória",
+        "expenseClaims": "Költségtérítési igények",
+        "expenseDate": "Kiadás dátuma",
+        "expenses": "Kiadások",
+        "paymentMethod": "Fizetési mód",
+        "spending": "Költés",
+        "submittedDate": "Benyújtás dátuma",
+        "total": "Összesen"
+    }
+}

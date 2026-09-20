@@ -1,0 +1,15 @@
+{
+    "common": {
+        "claimant": "Người yêu cầu",
+        "expense": "Chi phí",
+        "expenseCategories": "Danh mục chi phí",
+        "expenseCategory": "Danh mục chi phí",
+        "expenseClaims": "Yêu cầu hoàn trả chi phí",
+        "expenseDate": "Ngày phát sinh chi phí",
+        "expenses": "Chi phí",
+        "paymentMethod": "Phương thức thanh toán",
+        "spending": "Chi tiêu",
+        "submittedDate": "Ngày gửi",
+        "total": "Tổng cộng"
+    }
+}

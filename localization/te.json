@@ -1,0 +1,15 @@
+{
+    "common": {
+        "claimant": "దరఖాస్తుదారు",
+        "expense": "ఖర్చు",
+        "expenseCategories": "ఖర్చు వర్గాలు",
+        "expenseCategory": "ఖర్చు వర్గం",
+        "expenseClaims": "ఖర్చు తిరిగి చెల్లింపు అభ్యర్థనలు",
+        "expenseDate": "ఖర్చు తేదీ",
+        "expenses": "ఖర్చులు",
+        "paymentMethod": "చెల్లింపు విధానం",
+        "spending": "వ్యయం",
+        "submittedDate": "సమర్పించిన తేదీ",
+        "total": "మొత్తం"
+    }
+}
