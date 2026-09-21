@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "Заявник",
         "expense": "Витрата",
         "expenseCategories": "Категорії витрат",
         "expenseCategory": "Категорія витрати",
+        "expenseClaim": "Заявка на відшкодування витрати",
+        "expenseClaimItem": "Позиція заявки на відшкодування",
+        "expenseClaimItems": "Позиції заявки на відшкодування",
         "expenseClaims": "Заявки на відшкодування витрат",
-        "expenseDate": "Дата витрати",
         "expenses": "Витрати",
-        "paymentMethod": "Спосіб оплати",
-        "spending": "Видатки",
-        "submittedDate": "Дата подання",
-        "total": "Усього"
+        "reimbursement": "Відшкодування",
+        "reimbursements": "Відшкодування",
+        "spendingPolicies": "Політики витрат",
+        "spendingPolicy": "Політика витрат"
+    },
+    "panel": {
+        "spending": "Видатки"
     }
 }

@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "Igénylő",
         "expense": "Kiadás",
         "expenseCategories": "Kiadási kategóriák",
         "expenseCategory": "Kiadási kategória",
+        "expenseClaim": "Költségtérítési igény",
+        "expenseClaimItem": "Költségigény tétele",
+        "expenseClaimItems": "Költségigény tételei",
         "expenseClaims": "Költségtérítési igények",
-        "expenseDate": "Kiadás dátuma",
         "expenses": "Kiadások",
-        "paymentMethod": "Fizetési mód",
-        "spending": "Költés",
-        "submittedDate": "Benyújtás dátuma",
-        "total": "Összesen"
+        "reimbursement": "Költségtérítés",
+        "reimbursements": "Költségtérítések",
+        "spendingPolicies": "Költségszabályzatok",
+        "spendingPolicy": "Költségszabályzat"
+    },
+    "panel": {
+        "spending": "Költés"
     }
 }

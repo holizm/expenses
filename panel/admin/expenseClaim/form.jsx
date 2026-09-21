@@ -13,12 +13,12 @@ const inputs = <>
         required
     />
     <Text
-        placeholder='expensesClaimant'
+        placeholder='coreClaimant'
         property='claimant'
         required
     />
     <DateTime
-        placeholder='expensesSubmittedDate'
+        placeholder='coreSubmittedDate'
         property='submittedDate'
         required
     />

@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "مقدم المطالبة",
         "expense": "مصروف",
         "expenseCategories": "فئات المصروفات",
         "expenseCategory": "فئة المصروف",
+        "expenseClaim": "مطالبة مصروفات",
+        "expenseClaimItem": "بند مطالبة مصروفات",
+        "expenseClaimItems": "بنود مطالبة المصروفات",
         "expenseClaims": "مطالبات المصروفات",
-        "expenseDate": "تاريخ المصروف",
         "expenses": "المصروفات",
-        "paymentMethod": "طريقة الدفع",
-        "spending": "الإنفاق",
-        "submittedDate": "تاريخ التقديم",
-        "total": "الإجمالي"
+        "reimbursement": "استرداد",
+        "reimbursements": "عمليات الاسترداد",
+        "spendingPolicies": "سياسات الإنفاق",
+        "spendingPolicy": "سياسة الإنفاق"
+    },
+    "panel": {
+        "spending": "الإنفاق"
     }
 }

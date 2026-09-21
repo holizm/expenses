@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "Hakija",
         "expense": "Kulu",
         "expenseCategories": "Kulukategoriat",
         "expenseCategory": "Kulukategoria",
+        "expenseClaim": "Kuluhakemus",
+        "expenseClaimItem": "Kuluhakemuksen rivi",
+        "expenseClaimItems": "Kuluhakemuksen rivit",
         "expenseClaims": "Kuluhakemukset",
-        "expenseDate": "Kulun päivämäärä",
         "expenses": "Kulut",
-        "paymentMethod": "Maksutapa",
-        "spending": "Kulutus",
-        "submittedDate": "Lähetyspäivä",
-        "total": "Yhteensä"
+        "reimbursement": "Kulukorvaus",
+        "reimbursements": "Kulukorvaukset",
+        "spendingPolicies": "Kulupolitiikat",
+        "spendingPolicy": "Kulupolitiikka"
+    },
+    "panel": {
+        "spending": "Kulutus"
     }
 }

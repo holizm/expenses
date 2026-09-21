@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "ผู้ยื่นคำขอ",
         "expense": "ค่าใช้จ่าย",
         "expenseCategories": "หมวดหมู่ค่าใช้จ่าย",
         "expenseCategory": "หมวดหมู่ค่าใช้จ่าย",
+        "expenseClaim": "คำขอเบิกค่าใช้จ่าย",
+        "expenseClaimItem": "รายการคำขอเบิกค่าใช้จ่าย",
+        "expenseClaimItems": "รายการคำขอเบิกค่าใช้จ่าย",
         "expenseClaims": "คำขอเบิกค่าใช้จ่าย",
-        "expenseDate": "วันที่เกิดค่าใช้จ่าย",
         "expenses": "ค่าใช้จ่าย",
-        "paymentMethod": "วิธีการชำระเงิน",
-        "spending": "ยอดใช้จ่าย",
-        "submittedDate": "วันที่ยื่นคำขอ",
-        "total": "รวม"
+        "reimbursement": "การเบิกคืน",
+        "reimbursements": "การเบิกคืน",
+        "spendingPolicies": "นโยบายค่าใช้จ่าย",
+        "spendingPolicy": "นโยบายค่าใช้จ่าย"
+    },
+    "panel": {
+        "spending": "ยอดใช้จ่าย"
     }
 }

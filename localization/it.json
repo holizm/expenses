@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "Richiedente",
         "expense": "Spesa",
         "expenseCategories": "Categorie di spesa",
         "expenseCategory": "Categoria di spesa",
+        "expenseClaim": "Richiesta di rimborso spese",
+        "expenseClaimItem": "Voce della richiesta di rimborso",
+        "expenseClaimItems": "Voci della richiesta di rimborso",
         "expenseClaims": "Richieste di rimborso spese",
-        "expenseDate": "Data della spesa",
         "expenses": "Spese",
-        "paymentMethod": "Metodo di pagamento",
-        "spending": "Importo speso",
-        "submittedDate": "Data di invio",
-        "total": "Totale"
+        "reimbursement": "Rimborso",
+        "reimbursements": "Rimborsi",
+        "spendingPolicies": "Politiche di spesa",
+        "spendingPolicy": "Politica di spesa"
+    },
+    "panel": {
+        "spending": "Importo speso"
     }
 }

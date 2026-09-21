@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "Kravstiller",
         "expense": "Utgift",
         "expenseCategories": "Utgiftskategorier",
         "expenseCategory": "Utgiftskategori",
+        "expenseClaim": "Utgiftskrav",
+        "expenseClaimItem": "Post i utgiftskrav",
+        "expenseClaimItems": "Poster i utgiftskrav",
         "expenseClaims": "Utgiftskrav",
-        "expenseDate": "Utgiftsdato",
         "expenses": "Utgifter",
-        "paymentMethod": "Betalingsmåte",
-        "spending": "Forbruk",
-        "submittedDate": "Innsendingsdato",
-        "total": "Totalt"
+        "reimbursement": "Refusjon",
+        "reimbursements": "Refusjoner",
+        "spendingPolicies": "Utgiftspolicyer",
+        "spendingPolicy": "Utgiftspolicy"
+    },
+    "panel": {
+        "spending": "Forbruk"
     }
 }

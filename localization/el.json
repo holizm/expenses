@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "Αιτών",
         "expense": "Δαπάνη",
         "expenseCategories": "Κατηγορίες δαπανών",
         "expenseCategory": "Κατηγορία δαπάνης",
+        "expenseClaim": "Αίτημα εξόδων",
+        "expenseClaimItem": "Στοιχείο αιτήματος εξόδων",
+        "expenseClaimItems": "Στοιχεία αιτήματος εξόδων",
         "expenseClaims": "Αιτήματα εξόδων",
-        "expenseDate": "Ημερομηνία δαπάνης",
         "expenses": "Δαπάνες",
-        "paymentMethod": "Τρόπος πληρωμής",
-        "spending": "Δαπάνες",
-        "submittedDate": "Ημερομηνία υποβολής",
-        "total": "Σύνολο"
+        "reimbursement": "Αποζημίωση",
+        "reimbursements": "Αποζημιώσεις",
+        "spendingPolicies": "Πολιτικές δαπανών",
+        "spendingPolicy": "Πολιτική δαπανών"
+    },
+    "panel": {
+        "spending": "Δαπάνες"
     }
 }

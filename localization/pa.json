@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "ਦਾਅਵੇਦਾਰ",
         "expense": "ਖਰਚਾ",
         "expenseCategories": "ਖਰਚੇ ਦੀਆਂ ਸ਼੍ਰੇਣੀਆਂ",
         "expenseCategory": "ਖਰਚੇ ਦੀ ਸ਼੍ਰੇਣੀ",
+        "expenseClaim": "ਖਰਚਾ ਵਾਪਸੀ ਦਾ ਦਾਅਵਾ",
+        "expenseClaimItem": "ਖਰਚਾ ਵਾਪਸੀ ਦਾਅਵੇ ਦੀ ਆਈਟਮ",
+        "expenseClaimItems": "ਖਰਚਾ ਵਾਪਸੀ ਦਾਅਵੇ ਦੀਆਂ ਆਈਟਮਾਂ",
         "expenseClaims": "ਖਰਚਾ ਵਾਪਸੀ ਦੇ ਦਾਅਵੇ",
-        "expenseDate": "ਖਰਚੇ ਦੀ ਮਿਤੀ",
         "expenses": "ਖਰਚੇ",
-        "paymentMethod": "ਭੁਗਤਾਨ ਵਿਧੀ",
-        "spending": "ਖਰਚ",
-        "submittedDate": "ਜਮ੍ਹਾਂ ਕਰਨ ਦੀ ਮਿਤੀ",
-        "total": "ਕੁੱਲ"
+        "reimbursement": "ਅਦਾਇਗੀ",
+        "reimbursements": "ਅਦਾਇਗੀਆਂ",
+        "spendingPolicies": "ਖਰਚ ਨੀਤੀਆਂ",
+        "spendingPolicy": "ਖਰਚ ਨੀਤੀ"
+    },
+    "panel": {
+        "spending": "ਖਰਚ"
     }
 }

@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "Solicitant",
         "expense": "Cheltuială",
         "expenseCategories": "Categorii de cheltuieli",
         "expenseCategory": "Categorie de cheltuială",
+        "expenseClaim": "Cerere de decontare",
+        "expenseClaimItem": "Element al cererii de decontare",
+        "expenseClaimItems": "Elemente ale cererii de decontare",
         "expenseClaims": "Cereri de decontare",
-        "expenseDate": "Data cheltuielii",
         "expenses": "Cheltuieli",
-        "paymentMethod": "Metodă de plată",
-        "spending": "Cheltuieli efectuate",
-        "submittedDate": "Data depunerii",
-        "total": "Total"
+        "reimbursement": "Decontare",
+        "reimbursements": "Decontări",
+        "spendingPolicies": "Politici de cheltuieli",
+        "spendingPolicy": "Politică de cheltuieli"
+    },
+    "panel": {
+        "spending": "Cheltuieli efectuate"
     }
 }

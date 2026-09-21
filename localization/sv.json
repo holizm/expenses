@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "Sökande",
         "expense": "Utgift",
         "expenseCategories": "Utgiftskategorier",
         "expenseCategory": "Utgiftskategori",
+        "expenseClaim": "Utläggsanspråk",
+        "expenseClaimItem": "Post i utläggsanspråk",
+        "expenseClaimItems": "Poster i utläggsanspråk",
         "expenseClaims": "Utläggsanspråk",
-        "expenseDate": "Utgiftsdatum",
         "expenses": "Utgifter",
-        "paymentMethod": "Betalningsmetod",
-        "spending": "Utgifter",
-        "submittedDate": "Inlämningsdatum",
-        "total": "Totalt"
+        "reimbursement": "Ersättning",
+        "reimbursements": "Ersättningar",
+        "spendingPolicies": "Utgiftspolicyer",
+        "spendingPolicy": "Utgiftspolicy"
+    },
+    "panel": {
+        "spending": "Utgifter"
     }
 }

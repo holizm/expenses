@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "Requerente",
         "expense": "Despesa",
         "expenseCategories": "Categorias de despesas",
         "expenseCategory": "Categoria de despesa",
+        "expenseClaim": "Pedido de reembolso de despesa",
+        "expenseClaimItem": "Item do pedido de reembolso",
+        "expenseClaimItems": "Itens do pedido de reembolso",
         "expenseClaims": "Pedidos de reembolso de despesas",
-        "expenseDate": "Data da despesa",
         "expenses": "Despesas",
-        "paymentMethod": "Método de pagamento",
-        "spending": "Gastos",
-        "submittedDate": "Data de envio",
-        "total": "Total"
+        "reimbursement": "Reembolso",
+        "reimbursements": "Reembolsos",
+        "spendingPolicies": "Políticas de despesas",
+        "spendingPolicy": "Política de despesas"
+    },
+    "panel": {
+        "spending": "Gastos"
     }
 }

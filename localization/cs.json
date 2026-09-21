@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "Žadatel",
         "expense": "Výdaj",
         "expenseCategories": "Kategorie výdajů",
         "expenseCategory": "Kategorie výdaje",
+        "expenseClaim": "Žádost o proplacení výdaje",
+        "expenseClaimItem": "Položka žádosti o výdaj",
+        "expenseClaimItems": "Položky žádosti o výdaj",
         "expenseClaims": "Žádosti o proplacení výdajů",
-        "expenseDate": "Datum výdaje",
         "expenses": "Výdaje",
-        "paymentMethod": "Způsob platby",
-        "spending": "Útrata",
-        "submittedDate": "Datum podání",
-        "total": "Celkem"
+        "reimbursement": "Náhrada",
+        "reimbursements": "Náhrady",
+        "spendingPolicies": "Zásady výdajů",
+        "spendingPolicy": "Zásady výdajů"
+    },
+    "panel": {
+        "spending": "Útrata"
     }
 }

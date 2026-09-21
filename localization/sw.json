@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "Mdai",
         "expense": "Gharama",
         "expenseCategories": "Aina za gharama",
         "expenseCategory": "Aina ya gharama",
+        "expenseClaim": "Dai la kurejeshewa gharama",
+        "expenseClaimItem": "Kipengee cha dai la gharama",
+        "expenseClaimItems": "Vipengee vya dai la gharama",
         "expenseClaims": "Madai ya kurejeshewa gharama",
-        "expenseDate": "Tarehe ya gharama",
         "expenses": "Gharama",
-        "paymentMethod": "Njia ya malipo",
-        "spending": "Matumizi",
-        "submittedDate": "Tarehe ya kuwasilisha",
-        "total": "Jumla"
+        "reimbursement": "Marejesho",
+        "reimbursements": "Marejesho",
+        "spendingPolicies": "Sera za matumizi",
+        "spendingPolicy": "Sera ya matumizi"
+    },
+    "panel": {
+        "spending": "Matumizi"
     }
 }

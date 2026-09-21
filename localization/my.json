@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "တောင်းဆိုသူ",
         "expense": "အသုံးစရိတ်",
         "expenseCategories": "အသုံးစရိတ် အမျိုးအစားများ",
         "expenseCategory": "အသုံးစရိတ် အမျိုးအစား",
+        "expenseClaim": "အသုံးစရိတ် ပြန်လည်ပေးချေရန် တောင်းဆိုမှု",
+        "expenseClaimItem": "အသုံးစရိတ် တောင်းဆိုမှု အချက်",
+        "expenseClaimItems": "အသုံးစရိတ် တောင်းဆိုမှု အချက်များ",
         "expenseClaims": "အသုံးစရိတ် ပြန်လည်ပေးချေရန် တောင်းဆိုမှုများ",
-        "expenseDate": "အသုံးစရိတ် ရက်စွဲ",
         "expenses": "အသုံးစရိတ်များ",
-        "paymentMethod": "ငွေပေးချေမှု နည်းလမ်း",
-        "spending": "သုံးစွဲမှု",
-        "submittedDate": "တင်သွင်းသည့် ရက်စွဲ",
-        "total": "စုစုပေါင်း"
+        "reimbursement": "ပြန်လည်ပေးချေမှု",
+        "reimbursements": "ပြန်လည်ပေးချေမှုများ",
+        "spendingPolicies": "အသုံးစရိတ် မူဝါဒများ",
+        "spendingPolicy": "အသုံးစရိတ် မူဝါဒ"
+    },
+    "panel": {
+        "spending": "သုံးစွဲမှု"
     }
 }

@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "Pemohon",
         "expense": "Pengeluaran",
         "expenseCategories": "Kategori pengeluaran",
         "expenseCategory": "Kategori pengeluaran",
+        "expenseClaim": "Klaim penggantian biaya",
+        "expenseClaimItem": "Item klaim penggantian biaya",
+        "expenseClaimItems": "Item klaim penggantian biaya",
         "expenseClaims": "Klaim penggantian biaya",
-        "expenseDate": "Tanggal pengeluaran",
         "expenses": "Pengeluaran",
-        "paymentMethod": "Metode pembayaran",
-        "spending": "Belanja",
-        "submittedDate": "Tanggal pengajuan",
-        "total": "Total"
+        "reimbursement": "Penggantian biaya",
+        "reimbursements": "Penggantian biaya",
+        "spendingPolicies": "Kebijakan pengeluaran",
+        "spendingPolicy": "Kebijakan pengeluaran"
+    },
+    "panel": {
+        "spending": "Belanja"
     }
 }

@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "Declarant",
         "expense": "Uitgave",
         "expenseCategories": "Uitgavencategorieën",
         "expenseCategory": "Uitgavencategorie",
+        "expenseClaim": "Onkostendeclaratie",
+        "expenseClaimItem": "Declaratieregel",
+        "expenseClaimItems": "Declaratieregels",
         "expenseClaims": "Onkostendeclaraties",
-        "expenseDate": "Uitgavedatum",
         "expenses": "Uitgaven",
-        "paymentMethod": "Betaalmethode",
-        "spending": "Bestedingen",
-        "submittedDate": "Indieningsdatum",
-        "total": "Totaal"
+        "reimbursement": "Terugbetaling",
+        "reimbursements": "Terugbetalingen",
+        "spendingPolicies": "Uitgavenbeleid",
+        "spendingPolicy": "Uitgavenbeleid"
+    },
+    "panel": {
+        "spending": "Bestedingen"
     }
 }

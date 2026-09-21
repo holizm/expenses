@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "Заявитель",
         "expense": "Расход",
         "expenseCategories": "Категории расходов",
         "expenseCategory": "Категория расхода",
+        "expenseClaim": "Заявка на возмещение расхода",
+        "expenseClaimItem": "Позиция заявки на возмещение",
+        "expenseClaimItems": "Позиции заявки на возмещение",
         "expenseClaims": "Заявки на возмещение расходов",
-        "expenseDate": "Дата расхода",
         "expenses": "Расходы",
-        "paymentMethod": "Способ оплаты",
-        "spending": "Затраты",
-        "submittedDate": "Дата подачи",
-        "total": "Итого"
+        "reimbursement": "Возмещение",
+        "reimbursements": "Возмещения",
+        "spendingPolicies": "Политики расходов",
+        "spendingPolicy": "Политика расходов"
+    },
+    "panel": {
+        "spending": "Затраты"
     }
 }

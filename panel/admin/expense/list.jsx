@@ -9,7 +9,7 @@ import Form from './form'
 const headers = <>
     <th start>expensesExpense</th>
     <th>expensesNumber</th>
-    <th>expensesExpenseDate</th>
+    <th>coreExpenseDate</th>
     <th>expensesAmount</th>
     <th>stateMachinesState</th>
 </>

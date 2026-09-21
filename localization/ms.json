@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "Pemohon tuntutan",
         "expense": "Perbelanjaan",
         "expenseCategories": "Kategori perbelanjaan",
         "expenseCategory": "Kategori perbelanjaan",
+        "expenseClaim": "Tuntutan bayaran balik perbelanjaan",
+        "expenseClaimItem": "Item tuntutan bayaran balik",
+        "expenseClaimItems": "Item tuntutan bayaran balik",
         "expenseClaims": "Tuntutan bayaran balik perbelanjaan",
-        "expenseDate": "Tarikh perbelanjaan",
         "expenses": "Perbelanjaan",
-        "paymentMethod": "Kaedah pembayaran",
-        "spending": "Perbelanjaan",
-        "submittedDate": "Tarikh dikemukakan",
-        "total": "Jumlah"
+        "reimbursement": "Bayaran balik",
+        "reimbursements": "Bayaran balik",
+        "spendingPolicies": "Dasar perbelanjaan",
+        "spendingPolicy": "Dasar perbelanjaan"
+    },
+    "panel": {
+        "spending": "Perbelanjaan"
     }
 }

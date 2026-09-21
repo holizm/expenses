@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "청구인",
         "expense": "경비",
         "expenseCategories": "경비 범주",
         "expenseCategory": "경비 범주",
+        "expenseClaim": "경비 청구",
+        "expenseClaimItem": "경비 청구 항목",
+        "expenseClaimItems": "경비 청구 항목",
         "expenseClaims": "경비 청구",
-        "expenseDate": "지출일",
         "expenses": "경비",
-        "paymentMethod": "결제 방법",
-        "spending": "지출액",
-        "submittedDate": "제출일",
-        "total": "합계"
+        "reimbursement": "경비 상환",
+        "reimbursements": "경비 상환",
+        "spendingPolicies": "지출 정책",
+        "spendingPolicy": "지출 정책"
+    },
+    "panel": {
+        "spending": "지출액"
     }
 }

@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "അവകാശവാദി",
         "expense": "ചെലവ്",
         "expenseCategories": "ചെലവ് വിഭാഗങ്ങൾ",
         "expenseCategory": "ചെലവ് വിഭാഗം",
+        "expenseClaim": "ചെലവ് തിരിച്ചടവ് അപേക്ഷ",
+        "expenseClaimItem": "ചെലവ് തിരിച്ചടവ് അപേക്ഷാ ഇനം",
+        "expenseClaimItems": "ചെലവ് തിരിച്ചടവ് അപേക്ഷാ ഇനങ്ങൾ",
         "expenseClaims": "ചെലവ് തിരിച്ചടവ് അപേക്ഷകൾ",
-        "expenseDate": "ചെലവ് തീയതി",
         "expenses": "ചെലവുകൾ",
-        "paymentMethod": "പണമടയ്ക്കൽ രീതി",
-        "spending": "ചെലവാക്കൽ",
-        "submittedDate": "സമർപ്പിച്ച തീയതി",
-        "total": "ആകെ"
+        "reimbursement": "തിരിച്ചടവ്",
+        "reimbursements": "തിരിച്ചടവുകൾ",
+        "spendingPolicies": "ചെലവ് നയങ്ങൾ",
+        "spendingPolicy": "ചെലവ് നയം"
+    },
+    "panel": {
+        "spending": "ചെലവാക്കൽ"
     }
 }

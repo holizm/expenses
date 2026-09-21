@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "Claimant",
         "expense": "Expense",
         "expenseCategories": "Expense categories",
         "expenseCategory": "Expense category",
+        "expenseClaim": "Expense claim",
+        "expenseClaimItem": "Expense claim item",
+        "expenseClaimItems": "Expense claim items",
         "expenseClaims": "Expense claims",
-        "expenseDate": "Expense date",
         "expenses": "Expenses",
-        "paymentMethod": "Payment method",
-        "spending": "Spending",
-        "submittedDate": "Submitted date",
-        "total": "Total"
+        "reimbursement": "Reimbursement",
+        "reimbursements": "Reimbursements",
+        "spendingPolicies": "Spending policies",
+        "spendingPolicy": "Spending policy"
+    },
+    "panel": {
+        "spending": "Spending"
     }
 }

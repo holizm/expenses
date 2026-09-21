@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "દાવેદાર",
         "expense": "ખર્ચ",
         "expenseCategories": "ખર્ચની શ્રેણીઓ",
         "expenseCategory": "ખર્ચની શ્રેણી",
+        "expenseClaim": "ખર્ચ વળતરનો દાવો",
+        "expenseClaimItem": "ખર્ચ વળતરના દાવાની આઇટમ",
+        "expenseClaimItems": "ખર્ચ વળતરના દાવાની આઇટમો",
         "expenseClaims": "ખર્ચ વળતરના દાવા",
-        "expenseDate": "ખર્ચની તારીખ",
         "expenses": "ખર્ચાઓ",
-        "paymentMethod": "ચુકવણી પદ્ધતિ",
-        "spending": "ખર્ચ",
-        "submittedDate": "રજૂ કર્યાની તારીખ",
-        "total": "કુલ"
+        "reimbursement": "વળતર",
+        "reimbursements": "વળતરો",
+        "spendingPolicies": "ખર્ચ નીતિઓ",
+        "spendingPolicy": "ખર્ચ નીતિ"
+    },
+    "panel": {
+        "spending": "ખર્ચ"
     }
 }

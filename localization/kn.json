@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "ಹಕ್ಕುದಾರ",
         "expense": "ವೆಚ್ಚ",
         "expenseCategories": "ವೆಚ್ಚದ ವರ್ಗಗಳು",
         "expenseCategory": "ವೆಚ್ಚದ ವರ್ಗ",
+        "expenseClaim": "ವೆಚ್ಚ ಮರುಪಾವತಿ ಹಕ್ಕು",
+        "expenseClaimItem": "ವೆಚ್ಚ ಮರುಪಾವತಿ ಹಕ್ಕಿನ ಅಂಶ",
+        "expenseClaimItems": "ವೆಚ್ಚ ಮರುಪಾವತಿ ಹಕ್ಕಿನ ಅಂಶಗಳು",
         "expenseClaims": "ವೆಚ್ಚ ಮರುಪಾವತಿ ಹಕ್ಕುಗಳು",
-        "expenseDate": "ವೆಚ್ಚದ ದಿನಾಂಕ",
         "expenses": "ವೆಚ್ಚಗಳು",
-        "paymentMethod": "ಪಾವತಿ ವಿಧಾನ",
-        "spending": "ಖರ್ಚು",
-        "submittedDate": "ಸಲ್ಲಿಸಿದ ದಿನಾಂಕ",
-        "total": "ಒಟ್ಟು"
+        "reimbursement": "ಮರುಪಾವತಿ",
+        "reimbursements": "ಮರುಪಾವತಿಗಳು",
+        "spendingPolicies": "ಖರ್ಚು ನೀತಿಗಳು",
+        "spendingPolicy": "ಖರ್ಚು ನೀತಿ"
+    },
+    "panel": {
+        "spending": "ಖರ್ಚು"
     }
 }

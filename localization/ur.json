@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "دعویٰ کنندہ",
         "expense": "خرچ",
         "expenseCategories": "اخراجات کے زمرے",
         "expenseCategory": "خرچ کا زمرہ",
+        "expenseClaim": "اخراجات کی واپسی کا دعویٰ",
+        "expenseClaimItem": "اخراجات کے دعوے کی مد",
+        "expenseClaimItems": "اخراجات کے دعوے کی مدات",
         "expenseClaims": "اخراجات کی واپسی کے دعوے",
-        "expenseDate": "خرچ کی تاریخ",
         "expenses": "اخراجات",
-        "paymentMethod": "ادائیگی کا طریقہ",
-        "spending": "صرف شدہ رقم",
-        "submittedDate": "جمع کرانے کی تاریخ",
-        "total": "کل"
+        "reimbursement": "واپسی",
+        "reimbursements": "واپسیاں",
+        "spendingPolicies": "اخراجات کی پالیسیاں",
+        "spendingPolicy": "اخراجات کی پالیسی"
+    },
+    "panel": {
+        "spending": "صرف شدہ رقم"
     }
 }

@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "Eiser",
         "expense": "Uitgawe",
         "expenseCategories": "Uitgawekategorieë",
         "expenseCategory": "Uitgawekategorie",
+        "expenseClaim": "Uitgawe-eis",
+        "expenseClaimItem": "Uitgawe-eisitem",
+        "expenseClaimItems": "Uitgawe-eisitems",
         "expenseClaims": "Uitgawe-eise",
-        "expenseDate": "Uitgawedatum",
         "expenses": "Uitgawes",
-        "paymentMethod": "Betaalmetode",
-        "spending": "Besteding",
-        "submittedDate": "Indieningsdatum",
-        "total": "Totaal"
+        "reimbursement": "Terugbetaling",
+        "reimbursements": "Terugbetalings",
+        "spendingPolicies": "Bestedingsbeleide",
+        "spendingPolicy": "Bestedingsbeleid"
+    },
+    "panel": {
+        "spending": "Besteding"
     }
 }

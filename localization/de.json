@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "Antragsteller",
         "expense": "Ausgabe",
         "expenseCategories": "Ausgabenkategorien",
         "expenseCategory": "Ausgabenkategorie",
+        "expenseClaim": "Spesenabrechnung",
+        "expenseClaimItem": "Position der Spesenabrechnung",
+        "expenseClaimItems": "Positionen der Spesenabrechnung",
         "expenseClaims": "Spesenabrechnungen",
-        "expenseDate": "Ausgabedatum",
         "expenses": "Ausgaben",
-        "paymentMethod": "Zahlungsart",
-        "spending": "Ausgaben",
-        "submittedDate": "Einreichungsdatum",
-        "total": "Gesamt"
+        "reimbursement": "Erstattung",
+        "reimbursements": "Erstattungen",
+        "spendingPolicies": "Ausgabenrichtlinien",
+        "spendingPolicy": "Ausgabenrichtlinie"
+    },
+    "panel": {
+        "spending": "Ausgaben"
     }
 }

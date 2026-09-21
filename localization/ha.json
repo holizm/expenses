@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "Mai neman diyya",
         "expense": "Kashe kuɗi",
         "expenseCategories": "Rukunin kashe kuɗi",
         "expenseCategory": "Rukunin kashe kuɗi",
+        "expenseClaim": "Buƙatar mayar da kuɗin kashewa",
+        "expenseClaimItem": "Abun buƙatar mayar da kuɗi",
+        "expenseClaimItems": "Abubuwan buƙatar mayar da kuɗi",
         "expenseClaims": "Buƙatun mayar da kuɗin kashewa",
-        "expenseDate": "Ranar kashe kuɗi",
         "expenses": "Kuɗaɗen da aka kashe",
-        "paymentMethod": "Hanyar biyan kuɗi",
-        "spending": "Kashe kuɗi",
-        "submittedDate": "Ranar gabatarwa",
-        "total": "Jimilla"
+        "reimbursement": "Mayar da kuɗi",
+        "reimbursements": "Mayar da kuɗaɗe",
+        "spendingPolicies": "Manufofin kashe kuɗi",
+        "spendingPolicy": "Manufar kashe kuɗi"
+    },
+    "panel": {
+        "spending": "Kashe kuɗi"
     }
 }

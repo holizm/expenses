@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "Заявител",
         "expense": "Разход",
         "expenseCategories": "Категории разходи",
         "expenseCategory": "Категория разход",
+        "expenseClaim": "Искане за възстановяване на разход",
+        "expenseClaimItem": "Позиция в искане за разход",
+        "expenseClaimItems": "Позиции в искане за разход",
         "expenseClaims": "Искания за възстановяване на разходи",
-        "expenseDate": "Дата на разхода",
         "expenses": "Разходи",
-        "paymentMethod": "Начин на плащане",
-        "spending": "Разходване",
-        "submittedDate": "Дата на подаване",
-        "total": "Общо"
+        "reimbursement": "Възстановяване",
+        "reimbursements": "Възстановявания",
+        "spendingPolicies": "Политики за разходите",
+        "spendingPolicy": "Политика за разходите"
+    },
+    "panel": {
+        "spending": "Разходване"
     }
 }

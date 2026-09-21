@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "Người yêu cầu",
         "expense": "Chi phí",
         "expenseCategories": "Danh mục chi phí",
         "expenseCategory": "Danh mục chi phí",
+        "expenseClaim": "Yêu cầu hoàn trả chi phí",
+        "expenseClaimItem": "Mục yêu cầu hoàn trả chi phí",
+        "expenseClaimItems": "Các mục yêu cầu hoàn trả chi phí",
         "expenseClaims": "Yêu cầu hoàn trả chi phí",
-        "expenseDate": "Ngày phát sinh chi phí",
         "expenses": "Chi phí",
-        "paymentMethod": "Phương thức thanh toán",
-        "spending": "Chi tiêu",
-        "submittedDate": "Ngày gửi",
-        "total": "Tổng cộng"
+        "reimbursement": "Hoàn trả",
+        "reimbursements": "Các khoản hoàn trả",
+        "spendingPolicies": "Các chính sách chi tiêu",
+        "spendingPolicy": "Chính sách chi tiêu"
+    },
+    "panel": {
+        "spending": "Chi tiêu"
     }
 }

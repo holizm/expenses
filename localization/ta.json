@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "கோரிக்கையாளர்",
         "expense": "செலவு",
         "expenseCategories": "செலவு வகைகள்",
         "expenseCategory": "செலவு வகை",
+        "expenseClaim": "செலவுத் திருப்பிச் செலுத்தல் கோரிக்கை",
+        "expenseClaimItem": "செலவுக் கோரிக்கை உருப்படி",
+        "expenseClaimItems": "செலவுக் கோரிக்கை உருப்படிகள்",
         "expenseClaims": "செலவுத் திருப்பிச் செலுத்தல் கோரிக்கைகள்",
-        "expenseDate": "செலவுத் தேதி",
         "expenses": "செலவுகள்",
-        "paymentMethod": "பணம் செலுத்தும் முறை",
-        "spending": "செலவினம்",
-        "submittedDate": "சமர்ப்பித்த தேதி",
-        "total": "மொத்தம்"
+        "reimbursement": "திருப்பிச் செலுத்தல்",
+        "reimbursements": "திருப்பிச் செலுத்தல்கள்",
+        "spendingPolicies": "செலவுக் கொள்கைகள்",
+        "spendingPolicy": "செலவுக் கொள்கை"
+    },
+    "panel": {
+        "spending": "செலவினம்"
     }
 }

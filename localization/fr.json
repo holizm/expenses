@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "Demandeur",
         "expense": "Dépense",
         "expenseCategories": "Catégories de dépenses",
         "expenseCategory": "Catégorie de dépense",
+        "expenseClaim": "Demande de remboursement",
+        "expenseClaimItem": "Poste de demande de remboursement",
+        "expenseClaimItems": "Postes de demande de remboursement",
         "expenseClaims": "Demandes de remboursement",
-        "expenseDate": "Date de la dépense",
         "expenses": "Dépenses",
-        "paymentMethod": "Mode de paiement",
-        "spending": "Dépenses engagées",
-        "submittedDate": "Date de soumission",
-        "total": "Total"
+        "reimbursement": "Remboursement",
+        "reimbursements": "Remboursements",
+        "spendingPolicies": "Politiques de dépenses",
+        "spendingPolicy": "Politique de dépenses"
+    },
+    "panel": {
+        "spending": "Dépenses engagées"
     }
 }

@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "申請者",
         "expense": "経費",
         "expenseCategories": "経費カテゴリ",
         "expenseCategory": "経費カテゴリ",
+        "expenseClaim": "経費精算申請",
+        "expenseClaimItem": "経費精算申請項目",
+        "expenseClaimItems": "経費精算申請項目",
         "expenseClaims": "経費精算申請",
-        "expenseDate": "支出日",
         "expenses": "経費",
-        "paymentMethod": "支払方法",
-        "spending": "支出額",
-        "submittedDate": "申請日",
-        "total": "合計"
+        "reimbursement": "経費精算",
+        "reimbursements": "経費精算",
+        "spendingPolicies": "支出ポリシー",
+        "spendingPolicy": "支出ポリシー"
+    },
+    "panel": {
+        "spending": "支出額"
     }
 }

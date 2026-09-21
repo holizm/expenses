@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "מגיש התביעה",
         "expense": "הוצאה",
         "expenseCategories": "קטגוריות הוצאות",
         "expenseCategory": "קטגוריית הוצאה",
+        "expenseClaim": "תביעת החזר הוצאות",
+        "expenseClaimItem": "פריט בתביעת הוצאות",
+        "expenseClaimItems": "פריטים בתביעת הוצאות",
         "expenseClaims": "תביעות החזר הוצאות",
-        "expenseDate": "תאריך ההוצאה",
         "expenses": "הוצאות",
-        "paymentMethod": "אמצעי תשלום",
-        "spending": "הוצאה כספית",
-        "submittedDate": "תאריך הגשה",
-        "total": "סך הכול"
+        "reimbursement": "החזר",
+        "reimbursements": "החזרים",
+        "spendingPolicies": "מדיניות הוצאות",
+        "spendingPolicy": "מדיניות הוצאות"
+    },
+    "panel": {
+        "spending": "הוצאה כספית"
     }
 }

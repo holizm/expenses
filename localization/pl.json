@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "Wnioskodawca",
         "expense": "Wydatek",
         "expenseCategories": "Kategorie wydatków",
         "expenseCategory": "Kategoria wydatku",
+        "expenseClaim": "Wniosek o zwrot wydatku",
+        "expenseClaimItem": "Pozycja wniosku o zwrot",
+        "expenseClaimItems": "Pozycje wniosku o zwrot",
         "expenseClaims": "Wnioski o zwrot wydatków",
-        "expenseDate": "Data wydatku",
         "expenses": "Wydatki",
-        "paymentMethod": "Metoda płatności",
-        "spending": "Wydatki",
-        "submittedDate": "Data złożenia",
-        "total": "Łącznie"
+        "reimbursement": "Zwrot kosztów",
+        "reimbursements": "Zwroty kosztów",
+        "spendingPolicies": "Polityki wydatków",
+        "spendingPolicy": "Polityka wydatków"
+    },
+    "panel": {
+        "spending": "Wydatki"
     }
 }

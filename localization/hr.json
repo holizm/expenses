@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "Podnositelj zahtjeva",
         "expense": "Trošak",
         "expenseCategories": "Kategorije troškova",
         "expenseCategory": "Kategorija troška",
+        "expenseClaim": "Zahtjev za naknadu troška",
+        "expenseClaimItem": "Stavka zahtjeva za naknadu",
+        "expenseClaimItems": "Stavke zahtjeva za naknadu",
         "expenseClaims": "Zahtjevi za naknadu troškova",
-        "expenseDate": "Datum troška",
         "expenses": "Troškovi",
-        "paymentMethod": "Način plaćanja",
-        "spending": "Potrošnja",
-        "submittedDate": "Datum podnošenja",
-        "total": "Ukupno"
+        "reimbursement": "Naknada",
+        "reimbursements": "Naknade",
+        "spendingPolicies": "Politike troškova",
+        "spendingPolicy": "Politika troškova"
+    },
+    "panel": {
+        "spending": "Potrošnja"
     }
 }

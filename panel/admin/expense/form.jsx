@@ -21,7 +21,7 @@ const inputs = <>
         required
     />
     <DateTime
-        placeholder='expensesExpenseDate'
+        placeholder='coreExpenseDate'
         property='expenseDate'
         required
     />
@@ -43,7 +43,7 @@ const inputs = <>
             'wallet',
             'other',
         ]}
-        placeholder='expensesPaymentMethod'
+        placeholder='corePaymentMethod'
         property='expensePaymentMethod'
         required
     />

@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "Ansøger",
         "expense": "Udgift",
         "expenseCategories": "Udgiftskategorier",
         "expenseCategory": "Udgiftskategori",
+        "expenseClaim": "Udlægsanmodning",
+        "expenseClaimItem": "Post i udlægsanmodning",
+        "expenseClaimItems": "Poster i udlægsanmodning",
         "expenseClaims": "Udlægsanmodninger",
-        "expenseDate": "Udgiftsdato",
         "expenses": "Udgifter",
-        "paymentMethod": "Betalingsmetode",
-        "spending": "Forbrug",
-        "submittedDate": "Indsendelsesdato",
-        "total": "I alt"
+        "reimbursement": "Refusion",
+        "reimbursements": "Refusioner",
+        "spendingPolicies": "Udlægspolitikker",
+        "spendingPolicy": "Udlægspolitik"
+    },
+    "panel": {
+        "spending": "Forbrug"
     }
 }

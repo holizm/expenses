@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "Naghahabol ng bayad",
         "expense": "Gastos",
         "expenseCategories": "Mga kategorya ng gastos",
         "expenseCategory": "Kategorya ng gastos",
+        "expenseClaim": "Kahilingan sa reimbursement",
+        "expenseClaimItem": "Item ng kahilingan sa reimbursement",
+        "expenseClaimItems": "Mga item ng kahilingan sa reimbursement",
         "expenseClaims": "Mga kahilingan sa reimbursement",
-        "expenseDate": "Petsa ng gastos",
         "expenses": "Mga gastos",
-        "paymentMethod": "Paraan ng pagbabayad",
-        "spending": "Paggastos",
-        "submittedDate": "Petsa ng pagsusumite",
-        "total": "Kabuuan"
+        "reimbursement": "Reimbursement",
+        "reimbursements": "Mga reimbursement",
+        "spendingPolicies": "Mga patakaran sa paggastos",
+        "spendingPolicy": "Patakaran sa paggastos"
+    },
+    "panel": {
+        "spending": "Paggastos"
     }
 }

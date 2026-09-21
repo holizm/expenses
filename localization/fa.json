@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "درخواست‌کننده",
         "expense": "هزینه",
         "expenseCategories": "دسته‌های هزینه",
         "expenseCategory": "دسته هزینه",
+        "expenseClaim": "درخواست هزینه",
+        "expenseClaimItem": "قلم درخواست هزینه",
+        "expenseClaimItems": "اقلام درخواست هزینه",
         "expenseClaims": "درخواست‌های هزینه",
-        "expenseDate": "تاریخ هزینه",
         "expenses": "هزینه‌ها",
-        "paymentMethod": "روش پرداخت",
-        "spending": "مدیریت هزینه‌ها",
-        "submittedDate": "تاریخ ثبت",
-        "total": "مجموع"
+        "reimbursement": "بازپرداخت",
+        "reimbursements": "بازپرداخت‌ها",
+        "spendingPolicies": "سیاست‌های هزینه‌کرد",
+        "spendingPolicy": "سیاست هزینه‌کرد"
+    },
+    "panel": {
+        "spending": "مدیریت هزینه‌ها"
     }
 }

@@ -1,15 +1,19 @@
 {
     "common": {
-        "claimant": "দাবিদার",
         "expense": "ব্যয়",
         "expenseCategories": "ব্যয়ের বিভাগসমূহ",
         "expenseCategory": "ব্যয়ের বিভাগ",
+        "expenseClaim": "ব্যয় ফেরতের দাবি",
+        "expenseClaimItem": "ব্যয় ফেরতের দাবির আইটেম",
+        "expenseClaimItems": "ব্যয় ফেরতের দাবির আইটেমসমূহ",
         "expenseClaims": "ব্যয় ফেরতের দাবি",
-        "expenseDate": "ব্যয়ের তারিখ",
         "expenses": "ব্যয়সমূহ",
-        "paymentMethod": "পরিশোধের পদ্ধতি",
-        "spending": "খরচ",
-        "submittedDate": "জমা দেওয়ার তারিখ",
-        "total": "মোট"
+        "reimbursement": "প্রতিপূরণ",
+        "reimbursements": "প্রতিপূরণসমূহ",
+        "spendingPolicies": "ব্যয় নীতিসমূহ",
+        "spendingPolicy": "ব্যয় নীতি"
+    },
+    "panel": {
+        "spending": "খরচ"
     }
 }
