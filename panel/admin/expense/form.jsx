@@ -11,31 +11,27 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='number'
-        property='number'
+        number
         required
     />
     <Text
-        placeholder='expenseCategory'
-        property='expenseCategory'
+        expenseCategory
         required
     />
     <DateTime
-        placeholder='expenseDate'
-        property='expenseDate'
+        expenseDate
         required
     />
     <Numeric
-        placeholder='amount'
-        property='amount'
+        amount
         required
     />
     <Text
-        placeholder='currency'
-        property='currency'
+        currency
         required
     />
     <Select
+        expensePaymentMethod
         options={[
             'cash',
             'card',
@@ -44,13 +40,9 @@ const inputs = <>
             'other',
         ]}
         placeholder='paymentMethod'
-        property='expensePaymentMethod'
         required
     />
-    <LongText
-        placeholder='description'
-        property='description'
-    />
+    <LongText description />
 </>
 
 export default <DialogForm inputs={inputs} />
