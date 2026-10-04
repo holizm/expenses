@@ -37,6 +37,8 @@ expense
     receipt optional
     description optional
     unique number
+    uses
+        stateMachines
 expenseClaim
     number
     claimant
@@ -46,6 +48,8 @@ expenseClaim
     currency
     description optional
     unique number
+    uses
+        stateMachines
 expenseClaimItem
     expenseClaim
     expense

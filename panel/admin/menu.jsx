@@ -3,19 +3,19 @@ export default [
         children: [
             {
                 path: '/expenses/expense/list',
-                title: 'expensesExpenses',
+                title: 'expenses',
             },
             {
                 path: '/expenses/expenseClaim/list',
-                title: 'expensesExpenseClaims',
+                title: 'expenseClaims',
             },
             {
                 path: '/expenses/expenseCategory/list',
-                title: 'expensesExpenseCategories',
+                title: 'expenseCategories',
             },
         ],
         icon: 'payments',
         path: '/expenses',
-        title: 'expensesSpending',
+        title: 'spending',
     },
 ]

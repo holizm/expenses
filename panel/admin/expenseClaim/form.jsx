@@ -8,17 +8,17 @@ import {
 
 const inputs = <>
     <Text
-        placeholder='expensesNumber'
+        placeholder='number'
         property='number'
         required
     />
     <Text
-        placeholder='coreClaimant'
+        placeholder='claimant'
         property='claimant'
         required
     />
     <DateTime
-        placeholder='coreSubmittedDate'
+        placeholder='submittedDate'
         property='submittedDate'
         required
     />
@@ -32,12 +32,12 @@ const inputs = <>
             'reimbursed',
             'cancelled',
         ]}
-        placeholder='stateMachinesState'
+        placeholder='state'
         property='expenseStatus'
         required
     />
     <LongText
-        placeholder='expensesDescription'
+        placeholder='description'
         property='description'
     />
 </>

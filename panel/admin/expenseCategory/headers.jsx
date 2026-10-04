@@ -1,4 +1,4 @@
 export default <>
-    <th start>expensesExpenseCategory</th>
-    <th>expensesCode</th>
+    <th start>expenseCategory</th>
+    <th>code</th>
 </>

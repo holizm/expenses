@@ -11,27 +11,27 @@ import {
 const inputs = <>
     <Title />
     <Text
-        placeholder='expensesNumber'
+        placeholder='number'
         property='number'
         required
     />
     <Text
-        placeholder='expensesExpenseCategory'
+        placeholder='expenseCategory'
         property='expenseCategory'
         required
     />
     <DateTime
-        placeholder='coreExpenseDate'
+        placeholder='expenseDate'
         property='expenseDate'
         required
     />
     <Numeric
-        placeholder='expensesAmount'
+        placeholder='amount'
         property='amount'
         required
     />
     <Text
-        placeholder='expensesCurrency'
+        placeholder='currency'
         property='currency'
         required
     />
@@ -43,12 +43,12 @@ const inputs = <>
             'wallet',
             'other',
         ]}
-        placeholder='corePaymentMethod'
+        placeholder='paymentMethod'
         property='expensePaymentMethod'
         required
     />
     <LongText
-        placeholder='expensesDescription'
+        placeholder='description'
         property='description'
     />
 </>

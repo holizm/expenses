@@ -1,7 +1,7 @@
 export default <>
-    <th start>expensesNumber</th>
-    <th>coreClaimant</th>
-    <th>coreSubmittedDate</th>
-    <th>coreTotal</th>
-    <th>stateMachinesState</th>
+    <th start>number</th>
+    <th>claimant</th>
+    <th>submittedDate</th>
+    <th>total</th>
+    <th>state</th>
 </>
