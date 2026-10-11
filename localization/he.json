@@ -10,10 +10,8 @@
         "expenses": "הוצאות",
         "reimbursement": "החזר",
         "reimbursements": "החזרים",
+        "spending": "הוצאה כספית",
         "spendingPolicies": "מדיניות הוצאות",
         "spendingPolicy": "מדיניות הוצאות"
-    },
-    "panel": {
-        "spending": "הוצאה כספית"
     }
 }

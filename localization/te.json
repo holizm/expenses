@@ -10,10 +10,8 @@
         "expenses": "ఖర్చులు",
         "reimbursement": "తిరిగి చెల్లింపు",
         "reimbursements": "తిరిగి చెల్లింపులు",
+        "spending": "వ్యయం",
         "spendingPolicies": "ఖర్చు విధానాలు",
         "spendingPolicy": "ఖర్చు విధానం"
-    },
-    "panel": {
-        "spending": "వ్యయం"
     }
 }

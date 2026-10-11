@@ -10,10 +10,8 @@
         "expenses": "Spese",
         "reimbursement": "Rimborso",
         "reimbursements": "Rimborsi",
+        "spending": "Importo speso",
         "spendingPolicies": "Politiche di spesa",
         "spendingPolicy": "Politica di spesa"
-    },
-    "panel": {
-        "spending": "Importo speso"
     }
 }

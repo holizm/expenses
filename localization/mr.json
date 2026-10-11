@@ -10,10 +10,8 @@
         "expenses": "खर्च",
         "reimbursement": "परतफेड",
         "reimbursements": "परतफेडी",
+        "spending": "खर्च रक्कम",
         "spendingPolicies": "खर्च धोरणे",
         "spendingPolicy": "खर्च धोरण"
-    },
-    "panel": {
-        "spending": "खर्च रक्कम"
     }
 }

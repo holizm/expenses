@@ -10,10 +10,8 @@
         "expenses": "செலவுகள்",
         "reimbursement": "திருப்பிச் செலுத்தல்",
         "reimbursements": "திருப்பிச் செலுத்தல்கள்",
+        "spending": "செலவினம்",
         "spendingPolicies": "செலவுக் கொள்கைகள்",
         "spendingPolicy": "செலவுக் கொள்கை"
-    },
-    "panel": {
-        "spending": "செலவினம்"
     }
 }

@@ -10,10 +10,8 @@
         "expenses": "व्यय",
         "reimbursement": "प्रतिपूर्ति",
         "reimbursements": "प्रतिपूर्तियाँ",
+        "spending": "खर्च",
         "spendingPolicies": "व्यय नीतियाँ",
         "spendingPolicy": "व्यय नीति"
-    },
-    "panel": {
-        "spending": "खर्च"
     }
 }

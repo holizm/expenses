@@ -10,10 +10,8 @@
         "expenses": "ค่าใช้จ่าย",
         "reimbursement": "การเบิกคืน",
         "reimbursements": "การเบิกคืน",
+        "spending": "ยอดใช้จ่าย",
         "spendingPolicies": "นโยบายค่าใช้จ่าย",
         "spendingPolicy": "นโยบายค่าใช้จ่าย"
-    },
-    "panel": {
-        "spending": "ยอดใช้จ่าย"
     }
 }

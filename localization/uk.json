@@ -10,10 +10,8 @@
         "expenses": "Витрати",
         "reimbursement": "Відшкодування",
         "reimbursements": "Відшкодування",
+        "spending": "Видатки",
         "spendingPolicies": "Політики витрат",
         "spendingPolicy": "Політика витрат"
-    },
-    "panel": {
-        "spending": "Видатки"
     }
 }

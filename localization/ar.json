@@ -10,10 +10,8 @@
         "expenses": "المصروفات",
         "reimbursement": "استرداد",
         "reimbursements": "عمليات الاسترداد",
+        "spending": "الإنفاق",
         "spendingPolicies": "سياسات الإنفاق",
         "spendingPolicy": "سياسة الإنفاق"
-    },
-    "panel": {
-        "spending": "الإنفاق"
     }
 }

@@ -10,10 +10,8 @@
         "expenses": "هزینه‌ها",
         "reimbursement": "بازپرداخت",
         "reimbursements": "بازپرداخت‌ها",
+        "spending": "هزینه‌کرد",
         "spendingPolicies": "سیاست‌های هزینه‌کرد",
         "spendingPolicy": "سیاست هزینه‌کرد"
-    },
-    "panel": {
-        "spending": "هزینه‌کرد"
     }
 }

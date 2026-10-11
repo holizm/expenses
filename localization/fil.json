@@ -10,10 +10,8 @@
         "expenses": "Mga gastos",
         "reimbursement": "Pagbabayad ng ginastos",
         "reimbursements": "Mga reimbursement",
+        "spending": "Paggastos",
         "spendingPolicies": "Mga patakaran sa paggastos",
         "spendingPolicy": "Patakaran sa paggastos"
-    },
-    "panel": {
-        "spending": "Paggastos"
     }
 }

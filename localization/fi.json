@@ -10,10 +10,8 @@
         "expenses": "Kulut",
         "reimbursement": "Kulukorvaus",
         "reimbursements": "Kulukorvaukset",
+        "spending": "Kulutus",
         "spendingPolicies": "Kulupolitiikat",
         "spendingPolicy": "Kulupolitiikka"
-    },
-    "panel": {
-        "spending": "Kulutus"
     }
 }

@@ -10,10 +10,8 @@
         "expenses": "Cheltuieli",
         "reimbursement": "Decontare",
         "reimbursements": "Decontări",
+        "spending": "Cheltuieli efectuate",
         "spendingPolicies": "Politici de cheltuieli",
         "spendingPolicy": "Politică de cheltuieli"
-    },
-    "panel": {
-        "spending": "Cheltuieli efectuate"
     }
 }

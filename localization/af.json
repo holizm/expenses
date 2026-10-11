@@ -10,10 +10,8 @@
         "expenses": "Uitgawes",
         "reimbursement": "Terugbetaling",
         "reimbursements": "Terugbetalings",
+        "spending": "Besteding",
         "spendingPolicies": "Bestedingsbeleide",
         "spendingPolicy": "Bestedingsbeleid"
-    },
-    "panel": {
-        "spending": "Besteding"
     }
 }

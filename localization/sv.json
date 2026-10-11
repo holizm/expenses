@@ -10,10 +10,8 @@
         "expenses": "Utgifter",
         "reimbursement": "Ersättning",
         "reimbursements": "Ersättningar",
+        "spending": "Utgifter",
         "spendingPolicies": "Utgiftspolicyer",
         "spendingPolicy": "Utgiftspolicy"
-    },
-    "panel": {
-        "spending": "Utgifter"
     }
 }

@@ -10,10 +10,8 @@
         "expenses": "Troškovi",
         "reimbursement": "Naknada",
         "reimbursements": "Naknade",
+        "spending": "Potrošnja",
         "spendingPolicies": "Politike troškova",
         "spendingPolicy": "Politika troškova"
-    },
-    "panel": {
-        "spending": "Potrošnja"
     }
 }

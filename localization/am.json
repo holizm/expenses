@@ -10,10 +10,8 @@
         "expenses": "ወጪዎች",
         "reimbursement": "ወጪ መመለሻ",
         "reimbursements": "ወጪ መመለሻዎች",
+        "spending": "ወጪ ማውጣት",
         "spendingPolicies": "የወጪ ፖሊሲዎች",
         "spendingPolicy": "የወጪ ፖሊሲ"
-    },
-    "panel": {
-        "spending": "ወጪ ማውጣት"
     }
 }

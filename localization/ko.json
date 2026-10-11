@@ -10,10 +10,8 @@
         "expenses": "경비",
         "reimbursement": "경비 환급",
         "reimbursements": "경비 상환",
+        "spending": "지출액",
         "spendingPolicies": "지출 정책",
         "spendingPolicy": "지출 정책"
-    },
-    "panel": {
-        "spending": "지출액"
     }
 }

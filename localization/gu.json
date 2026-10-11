@@ -10,10 +10,8 @@
         "expenses": "ખર્ચાઓ",
         "reimbursement": "વળતર",
         "reimbursements": "વળતરો",
+        "spending": "ખર્ચ",
         "spendingPolicies": "ખર્ચ નીતિઓ",
         "spendingPolicy": "ખર્ચ નીતિ"
-    },
-    "panel": {
-        "spending": "ખર્ચ"
     }
 }

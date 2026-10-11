@@ -10,10 +10,8 @@
         "expenses": "အသုံးစရိတ်များ",
         "reimbursement": "ပြန်လည်ပေးချေမှု",
         "reimbursements": "ပြန်လည်ပေးချေမှုများ",
+        "spending": "သုံးစွဲမှု",
         "spendingPolicies": "အသုံးစရိတ် မူဝါဒများ",
         "spendingPolicy": "အသုံးစရိတ် မူဝါဒ"
-    },
-    "panel": {
-        "spending": "သုံးစွဲမှု"
     }
 }

@@ -10,10 +10,8 @@
         "expenses": "Расходы",
         "reimbursement": "Возмещение",
         "reimbursements": "Возмещения",
+        "spending": "Затраты",
         "spendingPolicies": "Политики расходов",
         "spendingPolicy": "Политика расходов"
-    },
-    "panel": {
-        "spending": "Затраты"
     }
 }

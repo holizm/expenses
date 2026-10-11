@@ -10,10 +10,8 @@
         "expenses": "Dépenses",
         "reimbursement": "Remboursement",
         "reimbursements": "Remboursements",
+        "spending": "Dépenses",
         "spendingPolicies": "Politiques de dépenses",
         "spendingPolicy": "Politique de dépenses"
-    },
-    "panel": {
-        "spending": "Dépenses"
     }
 }

@@ -10,10 +10,8 @@
         "expenses": "Разходи",
         "reimbursement": "Възстановяване",
         "reimbursements": "Възстановявания",
+        "spending": "Разходване",
         "spendingPolicies": "Политики за разходите",
         "spendingPolicy": "Политика за разходите"
-    },
-    "panel": {
-        "spending": "Разходване"
     }
 }

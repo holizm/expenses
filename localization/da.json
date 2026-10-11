@@ -10,10 +10,8 @@
         "expenses": "Udgifter",
         "reimbursement": "Refusion",
         "reimbursements": "Refusioner",
+        "spending": "Forbrug",
         "spendingPolicies": "Udlægspolitikker",
         "spendingPolicy": "Udlægspolitik"
-    },
-    "panel": {
-        "spending": "Forbrug"
     }
 }

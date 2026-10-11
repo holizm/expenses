@@ -10,10 +10,8 @@
         "expenses": "ವೆಚ್ಚಗಳು",
         "reimbursement": "ಮರುಪಾವತಿ",
         "reimbursements": "ಮರುಪಾವತಿಗಳು",
+        "spending": "ಖರ್ಚು",
         "spendingPolicies": "ಖರ್ಚು ನೀತಿಗಳು",
         "spendingPolicy": "ಖರ್ಚು ನೀತಿ"
-    },
-    "panel": {
-        "spending": "ಖರ್ಚು"
     }
 }

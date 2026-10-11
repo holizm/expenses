@@ -10,10 +10,8 @@
         "expenses": "ചെലവുകൾ",
         "reimbursement": "തിരിച്ചടവ്",
         "reimbursements": "തിരിച്ചടവുകൾ",
+        "spending": "ചെലവാക്കൽ",
         "spendingPolicies": "ചെലവ് നയങ്ങൾ",
         "spendingPolicy": "ചെലവ് നയം"
-    },
-    "panel": {
-        "spending": "ചെലവാക്കൽ"
     }
 }

@@ -10,10 +10,8 @@
         "expenses": "Wydatki",
         "reimbursement": "Zwrot kosztów",
         "reimbursements": "Zwroty kosztów",
+        "spending": "Wydatki",
         "spendingPolicies": "Polityki wydatków",
         "spendingPolicy": "Polityka wydatków"
-    },
-    "panel": {
-        "spending": "Wydatki"
     }
 }

@@ -10,10 +10,8 @@
         "expenses": "ਖਰਚੇ",
         "reimbursement": "ਅਦਾਇਗੀ",
         "reimbursements": "ਅਦਾਇਗੀਆਂ",
+        "spending": "ਖਰਚ",
         "spendingPolicies": "ਖਰਚ ਨੀਤੀਆਂ",
         "spendingPolicy": "ਖਰਚ ਨੀਤੀ"
-    },
-    "panel": {
-        "spending": "ਖਰਚ"
     }
 }

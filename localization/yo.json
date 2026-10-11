@@ -10,10 +10,8 @@
         "expenses": "Àwọn ìnáwó",
         "reimbursement": "Ìsanpadà",
         "reimbursements": "Àwọn ìsanpadà",
+        "spending": "Ìnáwó tí a ná",
         "spendingPolicies": "Àwọn ìlànà ìnáwó",
         "spendingPolicy": "Ìlànà ìnáwó"
-    },
-    "panel": {
-        "spending": "Ìnáwó tí a ná"
     }
 }

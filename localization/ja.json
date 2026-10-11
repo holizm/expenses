@@ -10,10 +10,8 @@
         "expenses": "経費",
         "reimbursement": "経費精算",
         "reimbursements": "経費精算",
+        "spending": "支出額",
         "spendingPolicies": "支出ポリシー",
         "spendingPolicy": "支出ポリシー"
-    },
-    "panel": {
-        "spending": "支出額"
     }
 }

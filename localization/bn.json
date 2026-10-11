@@ -10,10 +10,8 @@
         "expenses": "ব্যয়সমূহ",
         "reimbursement": "প্রতিপূরণ",
         "reimbursements": "প্রতিপূরণসমূহ",
+        "spending": "খরচ",
         "spendingPolicies": "ব্যয় নীতিসমূহ",
         "spendingPolicy": "ব্যয় নীতি"
-    },
-    "panel": {
-        "spending": "খরচ"
     }
 }

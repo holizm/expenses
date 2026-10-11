@@ -10,10 +10,8 @@
         "expenses": "Δαπάνες",
         "reimbursement": "Αποζημίωση",
         "reimbursements": "Αποζημιώσεις",
+        "spending": "Δαπάνες",
         "spendingPolicies": "Πολιτικές δαπανών",
         "spendingPolicy": "Πολιτική δαπανών"
-    },
-    "panel": {
-        "spending": "Δαπάνες"
     }
 }

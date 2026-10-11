@@ -10,10 +10,8 @@
         "expenses": "Pengeluaran",
         "reimbursement": "Penggantian biaya",
         "reimbursements": "Penggantian biaya",
+        "spending": "Belanja",
         "spendingPolicies": "Kebijakan pengeluaran",
         "spendingPolicy": "Kebijakan pengeluaran"
-    },
-    "panel": {
-        "spending": "Belanja"
     }
 }

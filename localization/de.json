@@ -10,10 +10,8 @@
         "expenses": "Ausgaben",
         "reimbursement": "Erstattung",
         "reimbursements": "Erstattungen",
+        "spending": "Ausgaben",
         "spendingPolicies": "Ausgabenrichtlinien",
         "spendingPolicy": "Ausgabenrichtlinie"
-    },
-    "panel": {
-        "spending": "Ausgaben"
     }
 }

@@ -10,10 +10,8 @@
         "expenses": "Трошкови",
         "reimbursement": "Накнада",
         "reimbursements": "Накнаде",
+        "spending": "Потрошња",
         "spendingPolicies": "Политике трошкова",
         "spendingPolicy": "Политика трошкова"
-    },
-    "panel": {
-        "spending": "Потрошња"
     }
 }

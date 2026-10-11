@@ -10,10 +10,8 @@
         "expenses": "Gharama",
         "reimbursement": "Marejesho",
         "reimbursements": "Marejesho",
+        "spending": "Matumizi",
         "spendingPolicies": "Sera za matumizi",
         "spendingPolicy": "Sera ya matumizi"
-    },
-    "panel": {
-        "spending": "Matumizi"
     }
 }

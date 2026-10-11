@@ -10,10 +10,8 @@
         "expenses": "Kiadások",
         "reimbursement": "Költségtérítés",
         "reimbursements": "Költségtérítések",
+        "spending": "Költés",
         "spendingPolicies": "Költségszabályzatok",
         "spendingPolicy": "Költségszabályzat"
-    },
-    "panel": {
-        "spending": "Költés"
     }
 }

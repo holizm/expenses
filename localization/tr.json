@@ -10,10 +10,8 @@
         "expenses": "Giderler",
         "reimbursement": "Geri ödeme",
         "reimbursements": "Geri ödemeler",
+        "spending": "Harcama",
         "spendingPolicies": "Harcama politikaları",
         "spendingPolicy": "Harcama politikası"
-    },
-    "panel": {
-        "spending": "Harcama"
     }
 }

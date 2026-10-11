@@ -10,10 +10,8 @@
         "expenses": "費用",
         "reimbursement": "報銷",
         "reimbursements": "報銷記錄",
+        "spending": "支出",
         "spendingPolicies": "支出政策",
         "spendingPolicy": "支出政策"
-    },
-    "panel": {
-        "spending": "支出"
     }
 }

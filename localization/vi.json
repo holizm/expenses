@@ -10,10 +10,8 @@
         "expenses": "Chi phí",
         "reimbursement": "Hoàn trả",
         "reimbursements": "Các khoản hoàn trả",
+        "spending": "Chi tiêu",
         "spendingPolicies": "Các chính sách chi tiêu",
         "spendingPolicy": "Chính sách chi tiêu"
-    },
-    "panel": {
-        "spending": "Chi tiêu"
     }
 }

@@ -10,10 +10,8 @@
         "expenses": "Výdaje",
         "reimbursement": "Náhrada",
         "reimbursements": "Náhrady",
+        "spending": "Útrata",
         "spendingPolicies": "Zásady výdajů",
         "spendingPolicy": "Zásady výdajů"
-    },
-    "panel": {
-        "spending": "Útrata"
     }
 }

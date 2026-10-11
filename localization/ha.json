@@ -10,10 +10,8 @@
         "expenses": "Kuɗaɗen da aka kashe",
         "reimbursement": "Mayar da kuɗi",
         "reimbursements": "Mayar da kuɗaɗe",
+        "spending": "Kashe kuɗi",
         "spendingPolicies": "Manufofin kashe kuɗi",
         "spendingPolicy": "Manufar kashe kuɗi"
-    },
-    "panel": {
-        "spending": "Kashe kuɗi"
     }
 }

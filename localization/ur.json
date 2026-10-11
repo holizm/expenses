@@ -10,10 +10,8 @@
         "expenses": "اخراجات",
         "reimbursement": "واپسی",
         "reimbursements": "واپسیاں",
+        "spending": "صرف شدہ رقم",
         "spendingPolicies": "اخراجات کی پالیسیاں",
         "spendingPolicy": "اخراجات کی پالیسی"
-    },
-    "panel": {
-        "spending": "صرف شدہ رقم"
     }
 }

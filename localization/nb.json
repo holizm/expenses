@@ -10,10 +10,8 @@
         "expenses": "Utgifter",
         "reimbursement": "Refusjon",
         "reimbursements": "Refusjoner",
+        "spending": "Forbruk",
         "spendingPolicies": "Utgiftspolicyer",
         "spendingPolicy": "Utgiftspolicy"
-    },
-    "panel": {
-        "spending": "Forbruk"
     }
 }
